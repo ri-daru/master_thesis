@@ -1,0 +1,22 @@
+﻿# Franka Panda アーム
+
+
+# 製品規格
+種類        Robot Arm
+タイプ 多関節, 協働
+軸数 7 軸
+積載量        3.0 kg
+リーチ        850 mm
+再現性        0.1 mm
+重量        18 kg
+
+
+
+
+
+
+Franka Emika社のPandaは7軸のロボットアームです。
+リーチは850mmで近すぎると動けない場合があります。
+
+
+https://www.directindustry.com/ja/prod/franka-emika/product-187686-1906234.html
